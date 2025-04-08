@@ -10,12 +10,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript(Basics)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Azure(AZ900)-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/UI/UX-ff69b4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/UI/UX-ff69b4?style=for-the-badge&logo=figma&logoColor=white">
 </p>  
 
 ---
@@ -23,8 +23,8 @@
 ## 🛠️ Tools  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/MS%20Office(Docs,Excel,PowerPoint)-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
 </p>  
 
@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://monishanarayanan21.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=githubpages&logoColor=white">
   </a>
   <a href="https://www.geeksforgeeks.org/user/monishanarcrd2/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
