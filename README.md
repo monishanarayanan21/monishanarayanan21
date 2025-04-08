@@ -38,6 +38,12 @@
 
 ---
 
+## 🏆 Achievements
+
+### CodeChef Problem Solver Bronze Badge  
+![CodeChef Badge](https://raw.githubusercontent.com/yourusername/yourrepository/main/CodeChefBadge.png)
+
+
 ## 📫 Connect with Me  
 
 <p align="center">
